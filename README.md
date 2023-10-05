@@ -1,6 +1,6 @@
-### Hi there 👋, My name is Ritesh Sharma
+### Hi there 👋, I am Ritesh Sharma
 #### I am looking for an internship and entry-level job in software engineering and web-related fields.
-![I am looking for an internship and entry-level job in software engineering and web-related fields.](https://www.elcivics.com/esl/images/esl-lesson-greetings.jpg)
+![greetings](https://www.elcivics.com/esl/images/esl-lesson-greetings.jpg)
 
 As a forward-thinking and adaptable web developer, I aim to leverage my expertise in frontend technologies, including React JS, to create exceptional user experience. With a commitment to continuous improvement and a passion for innovation, I'm eager to collaborate with global teams, embrace new technologies, and contribute to building scalable web-based applications.
 My strong problem-solving skills and dedication to maintaining high standards align perfectly with Company's vision of excellence. Let's work together to transform digital experiences.
