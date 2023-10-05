@@ -14,14 +14,4 @@ Skills: MongoDB / REACT / JS / HTML / CSS / JavaScript / Python
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RiteshtheSharma)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ritesh-sharma-enthusiast//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/ritesh0sharma)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshtheSharma)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RiteshtheSharma&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RiteshtheSharma)  
-
-![GitHub metrics](https://metrics.lecoq.io/RiteshtheSharma)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=RiteshtheSharma)  
-
-![Profile views](https://gpvc.arturio.dev/RiteshtheSharma)  
